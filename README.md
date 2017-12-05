@@ -12,6 +12,9 @@ Todas las imágenes, nombres de productos y nombres de empresa o logotipos citad
 
 ## Librerias usadas en esete proyecto 
 
+### JPA
+The Java Persistence API (JPA) is a Java application programming interface specification that describes the management of relational data in applications using Java Platform, Standard Edition and Java Platform, Enterprise Edition.
+
 ### EclipseLink
 The EclipseLink Project's produced contents are dual-licensed under the terms of the [Eclipse Public License v1.0](http://www.eclipse.org/legal/epl-v10.html) and [Eclipse Distribution License v1.0](http://www.eclipse.org/org/documents/edl-v10.php). For the license of dependent libraries included within a distribution please refer to the about.html file within each distribution.
 
